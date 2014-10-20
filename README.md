@@ -1,4 +1,4 @@
 DeepLearningNCI
 ===============
-powered by twins
-[DeepLearning] aPackages In NCI
+
+DeepLearning Packages In NCI
